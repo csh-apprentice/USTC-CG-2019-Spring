@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Icons/arrow.png</file>
+        <file>Icons/brush_color.png</file>
+        <file>Icons/delete.png</file>
+        <file>Icons/ellipse.png</file>
+        <file>Icons/freehand.png</file>
+        <file alias="Line">Icons/line.png</file>
+        <file>Icons/pen_color.png</file>
+        <file>Icons/polygon.png</file>
+        <file>Icons/rect.png</file>
+        <file>Icons/rotate.png</file>
+        <file>Icons/rounded_rect.png</file>
+        <file>Icons/select.png</file>
+        <file>Icons/stroke_width.png</file>
+        <file>Icons/triangle.png</file>
+        <file>Icons/屏幕截图(91).png</file>
+    </qresource>
+</RCC>
